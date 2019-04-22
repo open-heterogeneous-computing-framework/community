@@ -2,7 +2,7 @@
 Open Source Full Stack Heterogeneous Computing Reference Framework
 
 ## Motivation
-Heterogeneous Computing (a.k.a domain specific accelerators such as GPU, FPGAs, SoCs, ASICs, etc) has started to play more and more important role in nascent technologies such as Artificial Intelligence, 5G, Edge Computing, Robotics, HPC, Blockchain and so forth, most of which is offered or ran via a cloud computing platform.
+Heterogeneous Computing (a.k.a domain specific accelerators such as GPU, FPGAs, SoCs, ASICs, etc) has started to play more and more important role in nascent technologies such as Artificial Intelligence, 5G, Edge Computing, Robotics, HPC, Quantum Computing, Neuromorphic Computing and so forth, most of which is offered or ran via a cloud computing platform.
 
 However heterogeneous computing, compared to CPU-oriented general computing which has mature ecosystem from hardware to software, is still in early stage and suffers from the lack of a rich ecosystem. Hardware vendors' software ecosystem world view rarely go beyond device SDK, whereas application developers just assume their software should run on any hardware. As a result cloud platform struggle to build the bridge to connect the two, as well as address the challenges on the OS and virtualization/containerization level support.
 
