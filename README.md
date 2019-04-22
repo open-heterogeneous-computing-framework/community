@@ -29,12 +29,8 @@ There will be also other types of deliverables (e.g open source [specifications]
 
 OHCF will however not produce integration release which would be too heavyweight. Most of the gap fulfilling features will go to respective upstream communities, and it is not the goal of OHCF to host forked major upstream implementations.
 
-### Workflow
-
-Please refer to [workflow](./workflow.md)
-
 ## Contribution
-If you have any new idea about how we could better support accelerator ecosystem, please refer to [CONTRIBUTING](./CONTRIBUTING.md) and [communication](./communication.md) for ways that you could participate in OHCF.
+If you have any new idea about how we could better support accelerator ecosystem, please refer to [CONTRIBUTING](./CONTRIBUTING.md) for ways that you could participate in OHCF.
 
-### Example Reference Framework
+## Example Reference Framework
 ![Figure 1: Example Reference Framework Architecture](./example-arch.png "Figure 1: Example Reference Framework Architecture")
