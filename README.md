@@ -20,6 +20,8 @@ OHCF is a developer oriented lightweight governed open source project, which mea
 ### Scope
 OHCF aims to provide an open source reference framework for cloud computing powered heterogeneous computing implementations. [OpenStack](www.openstack.org) and [Kubernetes](www.kubernetes.io) will be the two main cloud computing platform OHCF's work will target. Non-cloud environment (simple single tenant clusters, blockchains) is non-priority or out of scope for OHCF.
 
+For Hardware spec OHCF mainly targets [OCP](https://www.opencompute.org/), and [RISC-V](https://riscv.org/) for open source instruction sets. It is more than welcomed to propose additional upstream open source communities for OHCF.
+
 ### Goal/Deliverables
 The main deliverables from OHCF will be reference framework in the format of either [PoC code](https://github.com/open-heterogeneous-computing-framework/PoC) or [design documentation](https://github.com/open-heterogeneous-computing-framework/Formula)
 
