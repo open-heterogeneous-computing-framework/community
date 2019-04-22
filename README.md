@@ -23,7 +23,7 @@ OHCF aims to provide an open source reference framework for cloud computing powe
 For Hardware spec OHCF mainly targets [OCP](https://www.opencompute.org/), and [RISC-V](https://riscv.org/) for open source instruction sets. It is more than welcomed to propose additional upstream open source communities for OHCF.
 
 ### Goal/Deliverables
-The main deliverables from OHCF will be reference framework in the format of either [PoC code](https://github.com/open-heterogeneous-computing-framework/PoC) or [design documentation](https://github.com/open-heterogeneous-computing-framework/community/formula)
+The main deliverables from OHCF will be reference framework in the format of either [PoC code](https://github.com/open-heterogeneous-computing-framework/PoC) or [design documentation](https://github.com/open-heterogeneous-computing-framework/community/tree/master/formula)
 
 There will be also other types of deliverables (e.g open source [specifications](https://github.com/open-heterogeneous-computing-framework/Specs), or [open lab env](https://github.com/open-heterogeneous-computing-framework/Lab))
 
