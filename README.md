@@ -1,24 +1,24 @@
 # Open Heterogeneous Computing Framework (OHCF)
 Open Source Full Stack Heterogeneous Computing Reference Framework
 
-## Motivtation
+## Motivation
 Heterogeneous Computing (a.k.a domain specific accelerators such as GPU, FPGAs, SoCs, ASICs, etc) has started to play more and more important role in nascent technologies such as Artificial Intelligence, 5G, Edge Computing, Robotics, HPC, Blockchain and so forth, most of which is offered or ran via a cloud computing platform.
 
-However heterogeneous computing, compared to CPU-oriented general computing which has mature ecosystem from hardware to software, is still in early stage and suffers from the lack of a rich ecosystem. Hardware vendors' software ecosystem world view rarely go beyond device SDK, whereas application developers just assume their software should run on any hardware. As a result cloud platform struggle to build the bridge to connect the two, as well as address the challeneges on the OS and virtualization/containerization level support.
+However heterogeneous computing, compared to CPU-oriented general computing which has mature ecosystem from hardware to software, is still in early stage and suffers from the lack of a rich ecosystem. Hardware vendors' software ecosystem world view rarely go beyond device SDK, whereas application developers just assume their software should run on any hardware. As a result cloud platform struggle to build the bridge to connect the two, as well as address the challenges on the OS and virtualization/containerization level support.
 
-Therefore an end-to-end full stack open source reference framework for heterogeneous computing is highly valuable, where people know how the domain specific accelerators are provided as a resource via cloud platform to the application, and how cloud platform could help applications to take advantages of these accelerator resources' perticular designs. 
+Therefore an end-to-end full stack open source reference framework for heterogeneous computing is highly valuable, where people know how the domain specific accelerators are provided as a resource via cloud platform to the application, and how cloud platform could help applications to take advantages of these accelerator resources' particular designs.
 
-Open Heterogeneous Computing Framework (OHCF) is proposed as a new open source initiative for this specific purpose. 
+Open Heterogeneous Computing Framework (OHCF) is proposed as a new open source initiative for this specific purpose.
 
 ## Definition
 ### Overview
-OHCF is a lightweight overlay project working with and across major upstream open source communities such as Linux Foundation, OpenStack Foundation, OCP Foundation, RISC-V Foundtion, etc. It is developer oriented and serves as a community for those are interested in accelerators to work together, build proof of concept implementations which could serve as a reference for users and vendors alike.
+OHCF is a lightweight overlay project working with and across major upstream open source communities such as Linux Foundation, OpenStack Foundation, OCP Foundation, RISC-V Foundation, etc. It is developer oriented and serves as a community for those are interested in accelerators to work together, build proof of concept implementations which could serve as a reference for users and vendors alike.
 
 ### Governance
 OHCF is a developer oriented lightweight governed open source project, which means there will be no designated committees/boards/emeritus positions, at least in the early stage. The community will be spearheaded by those who are interested and excited about the heterogeneous computing open source implementations. Decisions will be driven by simple consensus from open discussion.
 
 ### Scope
-OHCF aims to provide an open source reference framework for cloud computing powered hetergeneous computing implementations. [OpenStack](www.openstack.org) and [Kubernetes](www.kubernetes.io) will be the two main cloud computing platform OHCF's work will target. Non-cloud environment (simple single tenant clusters, blockchains) is non-priority or out of scope for OHCF.
+OHCF aims to provide an open source reference framework for cloud computing powered heterogeneous computing implementations. [OpenStack](www.openstack.org) and [Kubernetes](www.kubernetes.io) will be the two main cloud computing platform OHCF's work will target. Non-cloud environment (simple single tenant clusters, blockchains) is non-priority or out of scope for OHCF.
 
 ### Goal/Deliverables
 The main deliverables from OHCF will be reference framework in the format of either [PoC code](https://github.com/open-heterogeneous-computing-framework/PoC) or [design documentation](https://github.com/open-heterogeneous-computing-framework/Formula)

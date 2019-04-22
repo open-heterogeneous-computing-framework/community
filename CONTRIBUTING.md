@@ -1,1 +1,1 @@
-If you have any new idea about how we could better support accelerator ecosystem, feel free to submit an issue and start the conversation !
+If you have any new idea about how we could better support accelerator ecosystem, feel free to submit an [issue](https://github.com/open-heterogeneous-computing-framework/community/issues/new) and start the conversation !
