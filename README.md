@@ -36,4 +36,4 @@ If you have any new idea about how we could better support accelerator ecosystem
 Please feel free to checkout [ohcf/conference](https://github.com/open-heterogeneous-computing-framework/conference/blob/master/2019-events.md) for OHCF related events and CFP arrangements in 2019.
 
 ## Example Reference Framework
-![Figure 1: Example Reference Framework Architecture](./example-arch.png "Figure 1: Example Reference Framework Architecture")
+![Figure 1: Example Reference Framework Architecture](./example-architecture.png "Figure 1: Example Reference Framework Architecture")
